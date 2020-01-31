@@ -1,1 +1,3 @@
 # app
+存放一些常用的Mac软件及日常用到的windows软件
+不定期更新pixel2xl的手机软件
